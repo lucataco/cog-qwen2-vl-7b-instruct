@@ -3,7 +3,7 @@ Cog wrapper for qwen2-vl-7b-instruct
 
 # Qwen/Qwen2-VL-7B-Instruct Cog model
 
-This is an implementation of [Qwen/Qwen2-VL-7B-Instruct](https://huggingface.co/Apollo-LMMs/Apollo-7B-t32) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
+This is an implementation of [Qwen/Qwen2-VL-7B-Instruct](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) as a Cog model. [Cog packages machine learning models as standard containers.](https://github.com/replicate/cog)
 
 Run a prediction:
 
